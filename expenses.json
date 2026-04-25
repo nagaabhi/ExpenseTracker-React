@@ -1,0 +1,77 @@
+{
+  "expenses": [
+    {
+      "id": "2",
+      "title": "Grocery Shopping",
+      "description": "Weekly supermarket purchase",
+      "category": "Food",
+      "type": "expense",
+      "amount": 2500
+    },
+    {
+      "id": "4",
+      "title": "Movie Night",
+      "description": "Cinema tickets and snacks",
+      "category": "Entertainment",
+      "type": "expense",
+      "amount": 600
+    },
+    {
+      "id": "6",
+      "title": "Bus Pass",
+      "description": "Monthly transport pass",
+      "category": "Transport",
+      "type": "expense",
+      "amount": 1000
+    },
+    {
+      "id": "9",
+      "title": "Insurance Premium",
+      "description": "Monthly health insurance",
+      "category": "Insurance",
+      "type": "expense",
+      "amount": 2500
+    },
+    {
+      "id": "R6NMURy4SOg",
+      "title": "Recahrge",
+      "description": "Reacharge Mobile For this month",
+      "category": "Education",
+      "type": "expense",
+      "amount": "12000"
+    },
+    {
+      "id": "NhXIzTxIhOI",
+      "title": "Hava Dinner",
+      "description": "Have Dinner ToNight",
+      "category": "Food",
+      "type": "expense",
+      "amount": "20000"
+    },
+    {
+      "id": "Rt-RLADt1Kw",
+      "title": "Car Wash",
+      "description": "Wash the car for the festivals",
+      "category": "Transport",
+      "type": "expense",
+      "amount": "10000"
+    },
+    {
+      "id": "YaiLVVAK2HM",
+      "title": "Have Dinner",
+      "description": "Have Dinner Tonight at taj",
+      "category": "Food",
+      "type": "expense",
+      "amount": "20000"
+    },
+    {
+      "id": "IKSEmFza2qk",
+      "title": "Prepartion",
+      "description": "Prepare for the exams",
+      "category": "Education",
+      "type": "income",
+      "amount": "10000"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
